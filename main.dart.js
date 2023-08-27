@@ -48467,7 +48467,7 @@ asv(a,b){var s=0,r=A.P(t.Ud),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e
 var $async$kQ=A.Q(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 h=t.N
-m=A.au(["Content-Type","image/png"],h,h)
+m=A.au(["Content-Type","image/png","Authorization","Basic dG1xOTA6dHJ1b25n"],h,h)
 l=b
 h=n.b
 h===$&&A.a()
@@ -48512,7 +48512,7 @@ a_x(a,b){var s=0,r=A.P(t.Ud),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e
 var $async$jS=A.Q(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 h=t.N
-m=A.au(["Content-Type","image/png"],h,h)
+m=A.au(["Content-Type","image/png","Authorization","Basic dG1xOTA6dHJ1b25n"],h,h)
 l=b
 h=n.b
 h===$&&A.a()
@@ -48557,7 +48557,7 @@ amk(a,b){var s=0,r=A.P(t.Ud),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e
 var $async$ko=A.Q(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 h=t.N
-m=A.au(["Content-Type","image/png"],h,h)
+m=A.au(["Content-Type","image/png","Authorization","Basic dG1xOTA6dHJ1b25n"],h,h)
 l=b
 h=n.b
 h===$&&A.a()
@@ -48602,7 +48602,7 @@ ajN(a,a0,a1){var s=0,r=A.P(t.Ud),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$iv=A.Q(function(a2,a3){if(a2===1){o=a3
 s=p}while(true)switch(s){case 0:p=4
 h=t.N
-m=A.au(["Content-Type","image/png"],h,h)
+m=A.au(["Content-Type","image/png","Authorization","Basic dG1xOTA6dHJ1b25n"],h,h)
 g=t.z
 d=A
 c=A
@@ -48665,7 +48665,7 @@ f.b=a
 q=f
 s=1
 break}f=t.N
-k=A.au(["Content-Type","image/png","Name",a0,"Group","Test"],f,f)
+k=A.au(["Content-Type","image/png","Authorization","Basic dG1xOTA6dHJ1b25n","Name",a0,"Group","Test"],f,f)
 j=b
 f=n.b
 f===$&&A.a()
@@ -48710,7 +48710,7 @@ aog(a,b){var s=0,r=A.P(t.Ud),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e
 var $async$jt=A.Q(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 h=t.N
-m=A.au(["Content-Type","image/png","Group","Test"],h,h)
+m=A.au(["Content-Type","image/png","Group","Test","Authorization","Basic dG1xOTA6dHJ1b25n"],h,h)
 l=b
 h=n.b
 h===$&&A.a()
